@@ -5,6 +5,3 @@ class Utils {
         return "Hi ${name}, this is a greeting from Utils class!"
     }
 }
-class m{
-    
-}
